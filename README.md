@@ -5,7 +5,7 @@ Discord bot with different functionalities
 
 ## Commands
 All commands have to be entered with a `!` prefix. Here is a list of all commands, with a description:
-- `countdown x` => Starts a for x seconds, where x has to be an integer.
+- `countdown x` => Starts a countdown for x seconds, where x has to be an integer.
 - `dice x` => Rolls the dice from 1 to x. If x is empty it rolls from 1 to 6.
 -  `filter type` => Expects an image attachment and applies the given filter to the image. `!filter !info` shows all filters.  
   (With SixLabors.ImageSharp)
